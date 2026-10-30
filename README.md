@@ -2,7 +2,8 @@
 
 Copy-paste prompts and templates for avoiding six common mistakes when building AI agents. Made for anyone building an agent with an AI coding assistant. By Maryam Reza.
 
-Companion to my YouTube video on these six mistakes. These prompts and templates expand on the tips in the video. You don't need to write code by hand, but you do run commands and review what your coding assistant changes: you paste a prompt into your coding assistant, check what it produces, and keep the results in your project.
+Companion to my YouTube video on these six mistakes: https://youtu.be/Q5QzKx6ltXM?si=SQCaqsCk4zpfiMFm
+These prompts and templates expand on the tips in the video. You don't need to write code by hand, but you do run commands and review what your coding assistant changes: you paste a prompt into your coding assistant, check what it produces, and keep the results in your project.
 
 ## What's an "agent"?
 
@@ -48,7 +49,9 @@ This is general guidance, not security, legal or compliance advice, and followin
 
 ## More
 
-Video and updates: [maryamreza.com](https://maryamreza.com)
+Video and updates: 
+https://youtu.be/Q5QzKx6ltXM?si=SQCaqsCk4zpfiMFm
+[maryamreza.com](https://maryamreza.com)
 
 ## License
 
