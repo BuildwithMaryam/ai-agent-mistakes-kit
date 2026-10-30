@@ -1,8 +1,8 @@
-# AI agent mistakes kit
+# Mistakes to avoid with AI agents
 
 Copy-paste prompts and templates for avoiding six common mistakes when building AI agents. Made for anyone building an agent with an AI coding assistant. By Maryam Reza.
 
-This is the companion to my video "6 Mistakes That Make AI Agents Fail." Every prompt and template here comes from that video. Nothing needs you to write code by hand: you paste a prompt into your coding assistant, review what it produces, and keep the results in your project.
+Companion to my YouTube video on these six mistakes. These prompts and templates expand on the tips in the video. You don't need to write code by hand, but you do run commands and review what your coding assistant changes: you paste a prompt into your coding assistant, check what it produces, and keep the results in your project.
 
 ## What's an "agent"?
 
@@ -44,6 +44,8 @@ The video and these files use one example: a **customer support agent** that ans
 
 These are starting points, not a guarantee. They won't make an agent safe by themselves, and they don't replace testing your own agent on your own cases. Instructions alone are not a complete defense against prompt injection: pair them with tool-level checks and human approval for sensitive actions (see mistakes 3 and 4).
 
+This is general guidance, not security, legal or compliance advice, and following it doesn't certify an agent as safe or compliant.
+
 ## More
 
 Video and updates: [maryamreza.com](https://maryamreza.com)
@@ -51,3 +53,5 @@ Video and updates: [maryamreza.com](https://maryamreza.com)
 ## License
 
 MIT. See [LICENSE](LICENSE). Copyright (c) 2026 Maryam Reza.
+
+Last reviewed: October 2026.
