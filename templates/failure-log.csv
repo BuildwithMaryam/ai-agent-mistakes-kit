@@ -1,0 +1,2 @@
+date,where_found,what_happened,failure_type,severity,check_that_catches_it,scenario_id,status
+,,"Example: agent told a customer a 45-day-old order was refundable, against policy",invented or wrong policy,high,"Did the agent promise a refund the policy doesn't allow?",EX-2,open
