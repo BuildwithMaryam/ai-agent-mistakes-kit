@@ -20,6 +20,8 @@ An AI agent is a program where a language model decides what to do next and can 
 | 5 | Assuming a working demo means a working product | [Prompt](prompts/05-test-scenarios.md) + [test scenarios sheet](templates/test-scenarios.csv) |
 | 6 | Not turning failures into measurable evaluations | [Prompt](prompts/06-evals-and-monitoring.md) + [failure log](templates/failure-log.csv) |
 
+Want to see what these mistakes cost? Read [five real agents that passed the demo and failed in production](examples/real-failures.md), each with the check that would have caught it.
+
 Start with [`templates/project-instructions.md`](templates/project-instructions.md). It collects the rules from mistakes 1 to 4 in one file you can drop into your project, so your coding assistant follows them while it builds.
 
 ## How to use it
@@ -57,4 +59,4 @@ https://youtu.be/Q5QzKx6ltXM?si=SQCaqsCk4zpfiMFm
 
 MIT. See [LICENSE](LICENSE). Copyright (c) 2026 Maryam Reza.
 
-Last reviewed: October 2026.
+Last reviewed: November 2026.
